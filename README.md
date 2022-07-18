@@ -2,8 +2,6 @@
 
 I'm a professional mobile developer (Android).
 
-
-
 ## Skills:
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
@@ -40,4 +38,7 @@ And more...
 </br>
 [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee_-support_my_work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/rafamedidev)
 
-<img src="https://tenor.com/view/downsign-qr-code-brick-game-sam-omo-game-gif-13566001" text-align="enter">
+<div align="center">
+<img src="https://i.ibb.co/TR3wXCq/downsign-qr-code.gif" alt="downsign-qr-code" border="0" width="150"/>
+<img src="https://media.giphy.com/media/gjO7nSilZIfPcvcw4Z/giphy.gif" width="90"/>
+</div>
