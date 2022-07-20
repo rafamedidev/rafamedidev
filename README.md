@@ -26,9 +26,6 @@ And more...
 
 ## Find me at:
 
-[![Twitter](https://img.shields.io/badge/Twitter-@rafamedinatw-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/rafamedinatw)
-[![Instagram](https://img.shields.io/badge/Instagram-@rafamedinaig-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/rafamedinaig)
-</br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael_Medina-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/rafaelmedinaval)
 [![Web](https://img.shields.io/badge/Web-RafaMediDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://www.rafamedidev.com)
 
